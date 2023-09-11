@@ -1,0 +1,11 @@
+,Feature,Count,% of Missing,Card.,Mode,Mode Freq.,Mode %,2nd Mode,2nd Mode Freq.,2nd Mode %
+0,FlightDate,100000,0.0,212,2022-02-03,1406,1.406,2022-02-04,1155,1.155
+1,Airline,100000,0.0,21,Southwest Airlines Co.,16880,16.88,American Airlines Inc.,12948,12.948
+2,Origin,100000,0.0,368,ORD,4308,4.308,DFW,4098,4.098
+3,Dest,100000,0.0,369,ORD,4367,4.367,DFW,4160,4.16
+4,Cancelled,100000,0.0,2,False,71589,71.589,True,28411,28.411
+5,Diverted,100000,0.0,2,False,99815,99.815,True,185,0.185
+6,OriginCityName,100000,0.0,353,New York,5462,5.462,Chicago,5243,5.243
+7,OriginStateName,100000,0.0,53,Texas,10376,10.376,California,9199,9.199
+8,DestCityName,100000,0.0,354,New York,5399,5.399,Chicago,5381,5.381
+9,DestStateName,100000,0.0,53,Texas,10519,10.519,Florida,9112,9.112
